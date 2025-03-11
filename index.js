@@ -1,6 +1,6 @@
 var bunyan = require('bunyan'),
     has = require('lodash.has'),
-    set = require('lodash.set'),
+    set = require('lodash/set'),
     useragent = require('useragent'),
     uuid = require('uuid'),
     util = require('util');
