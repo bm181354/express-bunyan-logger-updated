@@ -1,15 +1,16 @@
 {
-  "name": "express-bunyan-logger-updated",
-  "version": "1.0.0",
+  "name": "@bikenm/express-bunyan-logger-updated",
+  "version": "1.0.1",
   "description": "a bunyan logger middleware for express",
   "main": "index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "lint": "jshint index.js test/*.js",
     "test": "npm run lint && mocha -R spec"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/villadora/express-bunyan-logger.git"
+    "url": "https://github.com/bm181354/express-bunyan-logger-updated.git"
   },
   "keywords": [
     "express",
